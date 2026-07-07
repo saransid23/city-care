@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🏙️ CityCare — CivicPulse
 
@@ -130,17 +130,22 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 
 | Requirement | Version | Install Guide |
 |---|---|---|
-| **Node.js** | v18+ | [nodejs.org](https://nodejs.org) or use the included `node-installer.msi` |
+| **Node.js** | v18+ | [nodejs.org](https://nodejs.org) |
 | **Python** | 3.9+ | [python.org](https://www.python.org) _(only if using Flask backend)_ |
-| **MongoDB** | 6.0+ | [mongodb.com](https://www.mongodb.com/try/download) or use the included `mongodb-installer.msi` |
-
-> **Tip**: The project root includes `node-installer.msi` and `mongodb-installer.msi` for quick Windows setup.
+| **MongoDB** | 6.0+ | [mongodb.com](https://www.mongodb.com/try/download) |
 
 ---
 
 ## 🚀 Getting Started
 
-### 1. Start MongoDB
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/saransid23/city-care.git
+cd city-care
+```
+
+### 2. Start MongoDB
 
 Make sure MongoDB is running locally on port `27017`:
 
@@ -486,4 +491,3 @@ This project is for educational and civic improvement purposes.
 _Report Today. Improve Tomorrow._
 
 </div>
-]]>
