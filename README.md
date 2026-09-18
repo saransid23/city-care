@@ -99,20 +99,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 └─────────────────────────────┘
 ```
 
----
-
-
-### One-Click Launch (Windows)
-
-Double-click **`run_project.bat`** in the project root. It will:
-1. Install frontend dependencies (if `node_modules` is missing)
-2. Launch the **frontend** dev server in a new window
-3. Launch the **Node.js backend** in a new window
-
-> **Note**: The batch file starts the Express backend. To use the Flask backend instead, start it manually per Option A above.
-
----
-
 ## 🔧 Environment Variables
 
 ### Flask Backend (`backend_python/.env`)
