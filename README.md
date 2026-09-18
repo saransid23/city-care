@@ -99,14 +99,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 └─────────────────────────────┘
 ```
 
-## 📡 API Reference
-
-### Health
-
-| Method | Endpoint | Description |
-|---|---|---|
-| `GET` | `/api/health` | Health check — returns `{ status: "ok", time: "..." }` |
-
 ### Authentication
 
 | Method | Endpoint | Description |
