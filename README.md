@@ -136,23 +136,7 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 
 
 
-### Option B — Node.js (Express) Backend
 
-```bash
-# 1. Install dependencies
-cd backend
-npm install
-
-# 2. Start with hot-reload
-npm run dev
-
-# Or start without hot-reload
-npm start
-```
-
-Backend runs at → **http://localhost:5000**
-
----
 
 ### 3. Start the Frontend
 
