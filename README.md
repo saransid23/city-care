@@ -14,31 +14,6 @@ Report neighbourhood problems • Get them resolved faster • Track every step
 
 </div>
 
----
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Architecture](#-architecture)
-- [Prerequisites](#-prerequisites)
-- [Getting Started](#-getting-started)
-  - [Option A — Python (Flask) Backend](#option-a--python-flask-backend-recommended)
-  - [Option B — Node.js (Express) Backend](#option-b--nodejs-express-backend)
-  - [One-Click Launch (Windows)](#one-click-launch-windows)
-- [Environment Variables](#-environment-variables)
-- [Seeding the Database](#-seeding-the-database)
-- [API Reference](#-api-reference)
-- [Project Structure](#-project-structure)
-- [Authentication](#-authentication)
-- [AI Priority Classification](#-ai-priority-classification)
-- [Pages & Routes](#-pages--routes)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
-
 ## Overview
 
 **CityCare** (codename _CivicPulse_) is a full-stack civic complaint management system that enables citizens to report public infrastructure issues potholes, water supply disruptions, streetlight failures, garbage accumulation, and electrical hazards and track their resolution in real time.
