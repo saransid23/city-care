@@ -99,14 +99,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 └─────────────────────────────┘
 ```
 
-### Express Backend (`backend/.env`)
-
-| Variable | Default | Description |
-|---|---|---|
-| `MONGO_URI` | `mongodb://127.0.0.1:27017/civicpulse` | MongoDB connection string |
-| `PORT` | `5000` | Server port |
-
-
 ## 📡 API Reference
 
 ### Health
