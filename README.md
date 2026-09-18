@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏙️ CityCare — CivicPulse
+# 🏙️ CityCare 
 
 **AI-powered civic issue reporting and tracking platform**
 
