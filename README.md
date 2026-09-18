@@ -107,18 +107,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
   "user": { "email": "...", "name": "...", "_id": "..." }
 }
 ```
-
-**Create Complaint (`POST /api/complaints`):**
-
-Supports both `application/json` and `multipart/form-data` (for photo uploads).
-
-| Field | Required | Description |
-|---|---|---|
-| `category` | ✅ | One of: `Pothole`, `Water Supply`, `Streetlight`, `Garbage`, `Electricity` |
-| `description` | ✅ | Description of the issue (max 300 chars) |
-| `location` | ✅ | Location of the issue |
-| `photo` | ❌ | Image file attachment |
-
 **Update Status (`PATCH /api/complaints/:id/status`):**
 ```json
 {
