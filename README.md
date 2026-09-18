@@ -99,14 +99,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 └─────────────────────────────┘
 ```
 
-### Authentication
-
-| Method | Endpoint | Description |
-|---|---|---|
-| `POST` | `/api/auth/register` | Register a new citizen account |
-| `POST` | `/api/auth/login` | Login with email & password |
-| `GET` | `/api/auth/me` | Get current user (requires `Bearer` token) |
-
 **Register / Login Request Body:**
 ```json
 {
