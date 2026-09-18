@@ -41,7 +41,7 @@ Report neighbourhood problems • Get them resolved faster • Track every step
 
 ## Overview
 
-**CityCare** (codename _CivicPulse_) is a full-stack civic complaint management system that enables citizens to report public infrastructure issues — potholes, water supply disruptions, streetlight failures, garbage accumulation, and electrical hazards — and track their resolution in real time.
+**CityCare** (codename _CivicPulse_) is a full-stack civic complaint management system that enables citizens to report public infrastructure issues potholes, water supply disruptions, streetlight failures, garbage accumulation, and electrical hazards and track their resolution in real time.
 
 The platform uses **keyword-based AI classification** to automatically assign priority levels (Critical / High / Medium / Low) to every complaint, ensuring the most dangerous issues get immediate attention.
 
