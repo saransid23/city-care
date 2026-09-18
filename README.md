@@ -99,15 +99,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 └─────────────────────────────┘
 ```
 
-**Register / Login Request Body:**
-```json
-{
-  "email": "user@example.com",
-  "password": "securepassword",
-  "name": "John Doe"
-}
-```
-
 **Response:**
 ```json
 {
