@@ -101,19 +101,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 
 ---
 
-## 📦 Prerequisites
-
-| Requirement | Version | Install Guide |
-|---|---|---|
-| **Node.js** | v18+ | [nodejs.org](https://nodejs.org) |
-| **Python** | 3.9+ | [python.org](https://www.python.org) _(only if using Flask backend)_ |
-| **MongoDB** | 6.0+ | [mongodb.com](https://www.mongodb.com/try/download) |
-
-
-
-
-
-
 
 ### One-Click Launch (Windows)
 
