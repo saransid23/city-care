@@ -51,7 +51,7 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 
 | Feature | Description |
 |---|---|
-| 🤖 **AI Priority Classification** | Automatically detects urgency from complaint descriptions using keyword analysis — critical hazards are flagged instantly |
+| 🤖 **AI Priority Classification** | Automatically detects urgency from complaint descriptions using keyword analysis critical hazards are flagged instantly |
 | 📍 **Location Tracking** | Attach exact locations so field teams can navigate directly to the problem |
 | 📸 **Photo Evidence** | Upload images with complaints for faster verification and resolution |
 | 🔄 **Real-Time Tracking** | Follow complaints via unique ticket IDs (`CMP-XXXXXXX`) through every stage |
