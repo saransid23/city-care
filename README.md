@@ -134,26 +134,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 | **Python** | 3.9+ | [python.org](https://www.python.org) _(only if using Flask backend)_ |
 | **MongoDB** | 6.0+ | [mongodb.com](https://www.mongodb.com/try/download) |
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/saransid23/city-care.git
-cd city-care
-```
-
-### 2. Start MongoDB
-
-Make sure MongoDB is running locally on port `27017`:
-
-```bash
-mongod
-```
-
----
 
 ### Option A — Python (Flask) Backend _(Recommended)_
 
