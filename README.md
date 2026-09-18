@@ -138,18 +138,7 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 
 
 
-### 3. Start the Frontend
 
-```bash
-# In a new terminal
-cd frontend
-npm install
-npm run dev
-```
-
-Frontend runs at → **http://localhost:5173**
-
----
 
 ### One-Click Launch (Windows)
 
