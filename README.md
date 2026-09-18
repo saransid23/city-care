@@ -99,18 +99,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 └─────────────────────────────┘
 ```
 
-## 🔧 Environment Variables
-
-### Flask Backend (`backend_python/.env`)
-
-| Variable | Default | Description |
-|---|---|---|
-| `MONGO_URI` | `mongodb://127.0.0.1:27017/city_care` | MongoDB connection string |
-| `MONGO_DB` | `city_care` | Database name |
-| `PORT` | `5000` | Server port |
-| `JWT_SECRET_KEY` | _(set in .env)_ | Secret for signing JWT tokens |
-| `JWT_EXPIRATION_SECONDS` | `86400` | Token expiry (24 hours) |
-
 ### Express Backend (`backend/.env`)
 
 | Variable | Default | Description |
