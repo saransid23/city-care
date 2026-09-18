@@ -145,26 +145,6 @@ Double-click **`run_project.bat`** in the project root. It will:
 | `MONGO_URI` | `mongodb://127.0.0.1:27017/civicpulse` | MongoDB connection string |
 | `PORT` | `5000` | Server port |
 
----
-
-## 🌱 Seeding the Database
-
-Populate the database with 30 realistic dummy complaints across all categories:
-
-```bash
-cd backend_python
-python seed.py
-```
-
-Output:
-```
-✅ Inserted 30 complaints successfully.
-📊 Total complaints in DB now: 30
-```
-
-The seed script generates complaints across **Pothole**, **Water Supply**, **Streetlight**, **Garbage**, and **Electricity** categories with varied priorities, statuses, and locations spread over the last 30 days.
-
----
 
 ## 📡 API Reference
 
