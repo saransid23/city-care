@@ -125,17 +125,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 }
 ```
 
-
-**Query Parameters for `GET /api/complaints`:**
-
-| Param | Example | Description |
-|---|---|---|
-| `priority` | `Critical` | Filter by priority level |
-| `status` | `Pending` | Filter by status |
-| `category` | `Pothole` | Filter by category |
-| `page` | `1` | Page number (default: 1) |
-| `limit` | `50` | Results per page (max: 100) |
-
 **Create Complaint (`POST /api/complaints`):**
 
 Supports both `application/json` and `multipart/form-data` (for photo uploads).
