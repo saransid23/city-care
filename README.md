@@ -394,20 +394,6 @@ When a complaint is submitted, the system analyses the **description text** and 
 
 ---
 
-## 🤝 Contributing
-
-1. **Fork** the repository
-2. **Create** a feature branch: `git checkout -b feature/amazing-feature`
-3. **Commit** your changes: `git commit -m "Add amazing feature"`
-4. **Push** to the branch: `git push origin feature/amazing-feature`
-5. **Open** a Pull Request
-
-### Development Tips
-
-- Use the **Flask backend** (`backend_python/`) for development — it has hot-reload with `debug=True`
-- Run `python seed.py` to populate test data after a fresh database setup
-- The frontend proxy is configured to `localhost:5000` in `vite.config.js`
-- Both backends serve uploaded files from the `uploads/` directory
 
 <div align="center">
 
