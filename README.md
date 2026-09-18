@@ -99,19 +99,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 └─────────────────────────────┘
 ```
 
-**Response:**
-```json
-{
-  "success": true,
-  "token": "eyJhbGci...",
-  "user": { "email": "...", "name": "...", "_id": "..." }
-}
-```
-**Update Status (`PATCH /api/complaints/:id/status`):**
-```json
-{
-  "status": "In Progress"
-}
 ```
 Valid statuses: `Pending`, `In Progress`, `Resolved`
 
