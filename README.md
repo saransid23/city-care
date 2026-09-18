@@ -135,26 +135,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 | **MongoDB** | 6.0+ | [mongodb.com](https://www.mongodb.com/try/download) |
 
 
-### Option A — Python (Flask) Backend _(Recommended)_
-
-```bash
-# 1. Create a virtual environment & install dependencies
-cd backend_python
-python -m venv venv
-venv\Scripts\activate        # Windows
-# source venv/bin/activate   # macOS / Linux
-pip install -r requirements.txt
-
-# 2. Configure environment
-# Edit .env if needed (defaults are already set)
-
-# 3. Start the Flask server
-python app.py
-```
-
-Backend runs at → **http://localhost:5000**
-
----
 
 ### Option B — Node.js (Express) Backend
 
