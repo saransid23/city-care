@@ -99,17 +99,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 └─────────────────────────────┘
 ```
 
-```
-Valid statuses: `Pending`, `In Progress`, `Resolved`
-
-### Static Files
-
-| Method | Endpoint | Description |
-|---|---|---|
-| `GET` | `/uploads/:filename` | Serve uploaded complaint photos |
-
----
-
 ## 📁 Project Structure
 
 ```
