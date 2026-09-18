@@ -409,17 +409,7 @@ When a complaint is submitted, the system analyses the **description text** and 
 - The frontend proxy is configured to `localhost:5000` in `vite.config.js`
 - Both backends serve uploaded files from the `uploads/` directory
 
----
-
-## 📄 License
-
-This project is for educational and civic improvement purposes.
-
----
-
 <div align="center">
-
-**Built with ❤️ for better cities**
 
 _Report Today. Improve Tomorrow._
 
