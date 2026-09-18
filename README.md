@@ -133,15 +133,6 @@ The platform uses **keyword-based AI classification** to automatically assign pr
 }
 ```
 
-### Complaints
-
-| Method | Endpoint | Description |
-|---|---|---|
-| `GET` | `/api/complaints` | List all complaints (with filters & pagination) |
-| `POST` | `/api/complaints` | Submit a new complaint (supports multipart file upload) |
-| `GET` | `/api/complaints/stats` | Aggregated dashboard statistics |
-| `GET` | `/api/complaints/:id` | Get a single complaint by ticket ID |
-| `PATCH` | `/api/complaints/:id/status` | Update complaint status |
 
 **Query Parameters for `GET /api/complaints`:**
 
